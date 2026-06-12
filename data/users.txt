@@ -1,0 +1,6 @@
+# Shopping Cart — Users 
+# Format: username|password|role
+admin|admin|admin
+Yogesh|yogesh|user
+shivu|123|user
+VINAY|12345|user

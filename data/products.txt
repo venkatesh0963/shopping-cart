@@ -1,0 +1,47 @@
+# Shopping Cart — Product Catalog
+# Format: product_id|name|price|stock
+101|Laptop|55000.00|10
+102|Wireless Mouse|500.00|50
+103|Mechanical Keyboard|2500.00|30
+104|USB-C Hub|1200.00|25
+105|HD Monitor|14000.00|6
+106|Webcam|3500.00|15
+107|Headphones|1800.00|20
+108|Portable SSD 1TB|5500.00|12
+109|Smartphone Stand|350.00|60
+110|LED Desk Lamp|950.00|35
+111|Bluetooth Speaker|2200.00|188
+112|Gaming Chair|8500.00|8
+113|External Hard Drive 2TB|7500.00|10
+114|Wireless Charger|800.00|40
+115|Smartwatch|12000.00|4
+116|Noise-Cancelling Earbuds|3000.00|18
+117|Graphic Tablet|4500.00|7
+118|VR Headset|25000.00|4
+119|Action Camera|8000.00|9
+120|Fitness Tracker|4000.00|20
+151|Keyboard|1000.00|10
+121|car toy|1000.00|20
+122|Doll|500.00|30
+123|Puzzle|300.00|50
+124|Board Game|1500.00|15
+125|card game|200.00|40
+126|Stuffed Animal|800.00|25
+127|Building Blocks|1200.00|20
+128|Remote Control Car|2500.00|10
+129|Dollhouse|3500.00|5
+130|Toy Train Set|4000.00|8
+131|Action Figure|600.00|30
+132|Plush Toy|700.00|25
+133|Educational Toy|1500.00|20
+134|Outdoor Toy|2000.00|15
+135|Water Gun|300.00|50
+136|Kite|500.00|30
+137|Bubble Machine|800.00|20
+138|Toy Drum Set|2500.00|10
+139|Toy Kitchen Set|3500.00|5
+140|Toy Tool Set|2000.00|15
+141|Toy Car Track|3000.00|8
+142|Toy Robot|4000.00|10
+143|Toy Airplane|1500.00|20
+144|Toy Boat|2000.00|10

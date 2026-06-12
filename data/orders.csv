@@ -1,0 +1,6 @@
+Order Date,Customer Address,Payment Method,S.No,Product,Qty,Unit Price (Rs.),Subtotal (Rs.),Grand Total (Rs.)
+2026-04-10 21:01:00,"Test User, MG Road, Bengaluru, PIN: 560001",Cash on Delivery (COD),1,Laptop,1,55000.00,55000.00,55000.00
+2026-04-10 21:10:14,"Santhosh, btm, Bengaluru, Karnataka, PIN: 500001",Online — UPI (santhosh@ybl),1,HD Monitor,1,14000.00,14000.00,14000.00
+2026-04-10 21:28:44,"Prasanna, btm, bengaluru, karnataka, PIN: 500001",Cash on Delivery (COD),1,Laptop,8,55000.00,440000.00,440000.00
+2026-04-13 14:19:11,"yogesh, btm, ben, kar, PIN: 577004",Online — UPI (yogesg@ybl),1,Laptop,1,55000.00,55000.00,55000.00
+2026-04-14 20:57:52,"Yogesh, btm, Davanagere, Karnataka, PIN: 500001",Cash on Delivery (COD),1,Smartwatch,1,12000.00,12000.00,12000.00
