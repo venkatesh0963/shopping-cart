@@ -9,15 +9,15 @@ demonstrating OOP, CRUD, File Handling, and Exception Handling.
 
 ```
 Shopping_cart/
-├── main.py            ← Entry point (main menu loop)
-├── product.py         ← Product class + custom exceptions
-├── cart.py            ← Cart class (add, remove, checkout)
-├── file_handler.py    ← Load/save products & orders to disk
-├── utils.py           ← Input validation & display helpers
+├── main.py            ← Entry point (main menu loop).
+├── product.py         ← Product class + custom exceptions.
+├── cart.py            ← Cart class (add, remove, checkout).
+├── file_handler.py    ← Load/save products & orders to disk.
+├── utils.py           ← Input validation & display helpers.
 │
 └── data/
-    ├── products.txt   ← Product catalog (auto-updated on exit)
-    └── orders.txt     ← Order receipts (appended on checkout)
+    ├── products.txt   ← Product catalog (auto-updated on exit).
+    └── orders.txt     ← Order receipts (appended on checkout).
 ```
 
 ---
