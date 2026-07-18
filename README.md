@@ -5,7 +5,7 @@ demonstrating OOP, CRUD, File Handling, and Exception Handling.
 
 ---
 
-## Project Structure
+## Project Structure.....
 
 ```
 Shopping_cart/
@@ -22,7 +22,7 @@ Shopping_cart/
 
 ---
 
-## How to Run
+## How to Run.....
 
 ```bash
 python main.py
