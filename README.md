@@ -5,7 +5,7 @@ demonstrating OOP, CRUD, File Handling, and Exception Handling.
 
 ---
 
-## Project Structure.....
+## Project Structure
 
 ```
 Shopping_cart/
