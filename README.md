@@ -1,4 +1,4 @@
-# 🛒 Shopping Cart System.
+# 🛒 Shopping Cart System
 
 A console-based e-commerce shopping cart application built in **pure Python**,
 demonstrating OOP, CRUD, File Handling, and Exception Handling.
